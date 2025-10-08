@@ -83,7 +83,7 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 
 # Clone Information : If Clone Mode Is True Then Bot Clone Other Bots.
 CLONE_MODE = bool(environ.get('CLONE_MODE', False)) # Set True or False
-CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://yewisil693:uhWbfr0Hs4v9h6oK@cluster0.ftkpwjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # Necessary If clone mode is true
+CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://gapeyaw562_db_user:SMWn1JAuadADFsit@cluster0.veosixa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # Necessary If clone mode is true
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'publicfiles14') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
